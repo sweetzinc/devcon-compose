@@ -3,6 +3,7 @@
 Note: a local (Windows11) folder is mounted to the devcontainer via `docker-compose.yml: "volumes" `
 
 ### Opening Folder
+* For this opening, we need to explicitly set the folder mount through `docker-compose.yml`
 1. VSCode Command: Dev Containers: Open Folder in Container...
 2. VSCode Terminal: `python torch_gpu_test.py`
 
