@@ -10,3 +10,5 @@ Note: a local (Windows11) folder is mounted to the devcontainer via `docker-comp
 * VSCode Command: Dev Containers: Clone Repository in Container Volume...
 
 [Documentation](https://code.visualstudio.com/docs/devcontainers/containers#_quick-start-open-a-git-repository-or-github-pr-in-an-isolated-container-volume)
+
+[Documentation](https://code.visualstudio.com/docs/devcontainers/containers#_quick-start-open-a-git-repository-or-github-pr-in-an-isolated-container-volume)
