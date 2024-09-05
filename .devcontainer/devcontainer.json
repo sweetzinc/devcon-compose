@@ -4,7 +4,7 @@
 	"name": "asn-project",
     "dockerComposeFile": "../docker/docker-compose.yml",
     "service": "asn-project",
-    "workspaceFolder": "/project",
+    "workspaceFolder": "/workspace",
 
     // "runArgs": ["--gpus", "all"],
     "remoteEnv": {

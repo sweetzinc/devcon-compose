@@ -6,10 +6,8 @@ services:
     image: asn-project-image
     container_name: asn-project-container 
     volumes:
-      # - ./workspace:/workspace
-      # - /mnt/c/docker_share:/shared_data
       - C:\docker_share:/mounted_data:cached 
-      # - C:\Users\Stephanie\repos\clones\YOLO-World:/yolo-world:cached
+      - ..:/workspace:cached
     deploy:
       resources:
         reservations:
